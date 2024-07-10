@@ -2,7 +2,7 @@
 
 Project Overview  
 
-This project focuses on optimizing Convolutional Neural Networks (CNNs) and Generative Adversarial Networks (GANs) using the CIFAR-10 and Fashion-MNIST datasets. By incorporating batch normalization, we aim to improve performance and stability, demonstrating significant enhancements in image classification and generation. This study highlights the potential of advanced deep learning techniques for better model accuracy and efficiency.  
+This project focuses on optimizing Convolutional Neural Networks (CNNs) and Generative Adversarial Networks (GANs) using the CIFAR-10 and Fashion-MNIST datasets. By incorporating batch normalization and leveraging TensorFlow, we aim to improve performance and stability, demonstrating significant enhancements in image classification and generation. This study highlights the potential of advanced deep learning techniques for better model accuracy and efficiency.
 
 Features  
 CNN Architecture Implementation: Developed a CNN with three convolutional layers using ReLU activation and softmax for classification. Batch normalization was added between layers to assess its effect on performance.  
